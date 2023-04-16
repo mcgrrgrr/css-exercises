@@ -2,13 +2,14 @@
     background-color: RGB(200,120,120);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
-#uniqueOne {
-    color: blue;
-    font-size: 36px;
-}
 
 .bigBoi {
     font-size: 24px;
+    
+}
+#uniqueOne {
+    color: blue;
+    font-size: 36px;
 }
 
 #uniqueTwo {
