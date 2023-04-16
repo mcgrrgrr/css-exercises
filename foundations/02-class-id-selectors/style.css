@@ -1,6 +1,6 @@
 .sameClass {
     background-color: RGB(200,120,120);
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 #uniqueOne {
     color: blue;
@@ -12,7 +12,7 @@
 }
 
 #uniqueTwo {
-    background-color: lightgreen;
+    background-color: #55f555;
     font-size: 24px;
     font-weight: 700;
 }
