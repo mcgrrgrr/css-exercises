@@ -1,0 +1,18 @@
+.sameClass {
+    background-color: RGB(200,120,120);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#uniqueOne {
+    color: blue;
+    font-size: 36px;
+}
+
+.bigBoi {
+    font-size: 24px;
+}
+
+#uniqueTwo {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
